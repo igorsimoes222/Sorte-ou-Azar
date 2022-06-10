@@ -1,0 +1,44 @@
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: rgb(230, 228, 228);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+
+}
+
+
+.baixa {
+    font-size: 1.1em;
+    text-align: center;
+    text-decoration: underline;
+    display: flexbox;
+}
+
+
+.tudo {
+    width: 80%;
+    display: flex;
+}
+
+.partetras {
+    background: rgb(114, 19, 114);
+    color: rgb(179, 179, 179);
+    width: 1000px;
+    height: 100%;
+    box-shadow: 0px 0px 2000px 20px rgb(235, 39, 202);
+    border: 3px solid black;
+    border-radius: 50px;
+    display: block;
+    
+
+}
+
+.foto {
+    display: flex ;
+    width: min-content;
+    box-shadow: 0px 0px 15px 6px black;
+
+}
