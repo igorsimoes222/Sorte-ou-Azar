@@ -1,6 +1,6 @@
 <body>
 <center>
-#Sorte ou Azar
-<a href="index..html">Iniciar site</a>
+-----------------#Sorte ou Azar-----------------
+<a href="index..html"><button>Iniciar Site</a>
 </center>
-<body bgcolor="gray">
+</body bgcolor="gray">
