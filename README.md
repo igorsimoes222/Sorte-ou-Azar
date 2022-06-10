@@ -1,6 +1,6 @@
 
 <center>
 #Sorte ou Azar
-<a href="index..html"><button>Iniciar Site
+<a size="20" href="index..html"><button>Iniciar Site
 
 
